@@ -1,0 +1,6 @@
+n=input("Enter a Number to check for even odd");
+if rem(x,2) ==0
+    disp('number is even');
+else
+    disp('number is odd');
+end
