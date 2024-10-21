@@ -1,0 +1,12 @@
+%parabola with x values from -1000 to +1000
+
+%formula is y=x^2
+
+x=-1000:100:1000;
+y=x.^2;
+%plot(x,y,color='red');
+xlabel('x axis');
+ylabel('y axis');
+title('Parabola Plot');
+scatter(x,y);
+grid on;
