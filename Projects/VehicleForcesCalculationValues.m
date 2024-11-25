@@ -1,0 +1,9 @@
+mass=2000;
+frontal_area=1;
+urr=0.013;
+theta=10;
+air_density=1.225;
+cdrag=0.3;
+g=9.8;
+max_velocity=120;
+t=30; % time to reach max velocity
