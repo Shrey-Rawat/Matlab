@@ -1,3 +1,5 @@
+% Simply Exploring Matlab
+
 num1 = 36 ;
 num2 = 11 ;
 
