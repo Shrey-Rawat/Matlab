@@ -1,4 +1,4 @@
-% Plotting a Beautiful Presentable Partial Parabola
+% Plotting a Partial Parabola with Custom Color Scheme for the Figure
 x=-10;
 figure();
 grid on;
