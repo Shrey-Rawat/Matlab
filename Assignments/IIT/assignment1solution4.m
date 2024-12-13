@@ -1,4 +1,4 @@
-% Plotting a Partial Parabola
+% Plotting a Beautiful Presentable Partial Parabola
 x=-10;
 figure();
 grid on;
